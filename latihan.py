@@ -1,6 +1,8 @@
 def garis():
     print("\n" + "*" * 49)
 
+    # latihan gitis
+
 garis()
 print("                   UNIVERSITAS BINA SARANA INFORMATIKA                ")
 print("                      FAKULTAS TEKNIK INFORMATIKA                     ")
